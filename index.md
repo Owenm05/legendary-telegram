@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 [Click me](http://www.google.com){: .btn}
-<!html>
+  <html>
 <button type="button" class="btn btn-{{include.button_class}} active">{{include.button_name}}</button>
   </html>
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
